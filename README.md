@@ -1,4 +1,4 @@
-# Project ideas and materials for University of Bristol final year project students
+# Project ideas and materials for University of Bristol Chemistry and/or Scientific Computing final year project students
 
 Please contact Matt Rigby to discuss project ideas
 
