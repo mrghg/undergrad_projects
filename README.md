@@ -10,6 +10,12 @@ As part of Anaconda, you will download the [conda package manager](https://docs.
 conda install xarray
 ```
 
+You can download this repository using git. Copy the address from the green "<> Code" button at the top of this repository, navigate to a folder where you'd like to store the code and type (in a terminal):
+
+```
+git clone <address>
+```
+
 ### NetCDF files and xarray
 
 Our group uses the [netCDF](https://www.unidata.ucar.edu/software/netcdf/) file format extensively. NetCDF is a self-describing binary format. It is extremely useful for atmospheric data, but it does take some time to learn. Please familiarise yourself with the documnetation.
